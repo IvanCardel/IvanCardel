@@ -4,9 +4,9 @@
 
 I love technology and programming, I once played soccer 🤣⚽
 
-Habilidades: PHP / JS / HTML / CSS / Laravel
+Habilidades: PHP / JS / HTML / CSS / LARAVEL
 
-- 🔭 Estoy trabajando en Círculo de Empresarios 
+- 🔭 Estoy trabajando en Círculo de Empresarios Celaya
 - 🌱 Estoy aprendiendo Flutter 🤓 
 - 📫 Cómo contactarme: jivancarso@gmail.com 
 - ⚡ Dato curioso: If you have two hands, you have more hands than the average human. 🙌 
